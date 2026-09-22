@@ -25,4 +25,12 @@ Tarea de Rafael Sandoval Castillo y Petrovich Tovar Diego Saúl
 A---B---C <-----main
     \
      D---E <---- binario	
-
+#Reto 08
+    ##¿Por qué git rechazó el primer push de B?
+    Porque los repositorios locales de cada uno no estaban sincronizados
+    ##¿Existia un conflicto de contenido?
+    No
+    ##¿Qué ocurrio cuando ejecutaron pull?
+    Se actualizaron los repositorios locales y se sincronizaron
+    ##¿Que diferencia observan entre un push rechazado y un conflicto?
+    Hay que ver la raiz del problema para poder reslverlo
