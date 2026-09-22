@@ -33,4 +33,9 @@ A---B---C <-----main
     ##¿Qué ocurrio cuando ejecutaron pull?
     Se actualizaron los repositorios locales y se sincronizaron
     ##¿Que diferencia observan entre un push rechazado y un conflicto?
-    Hay que ver la raiz del problema para poder reslverlo
+    Hay que ver la raiz del problema para poder resolverlo
+##Pregunta
+	##¿Realizar un merge implica necesariamente que exista un conflicto?
+	No, si se hace de manera efectiva y con orden no debe haber conflicto
+	
+	Discutiendo la afrimacion creemos que es cierto debido a que merge busca unificar las ramas porqur todas son importantes
