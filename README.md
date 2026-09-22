@@ -9,3 +9,10 @@ Tarea de Rafael Sandoval Castillo y Petrovich Tovar Diego Saúl
     Cada quien tendria una version diferente del archivo
 ##¿Que esprean que ocurra cuando ambos modifican la misma linea?
     Se guarda la ultima actualizacion 
+#Comandos Utilizados
+    git add
+    git commit
+    git push
+    git pull
+    git status
+    
