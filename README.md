@@ -17,7 +17,12 @@ Tarea de Rafael Sandoval Castillo y Petrovich Tovar Diego Saúl
     git pull
     git status
 #Planeación
-    A y B se repartirán equitativamente los commits según requiera el trabajo, estando al tanto de los cambios q    ue realize cada uno
+    A y B se repartirán equitativamente los commits según requiera el trabajo, estando al tanto de los cambios que realize cada uno
     Cada que haya un cambio aprobado por A y B, se ralizará un push
-    Pull se llevará a cabo para actualizar los repositorias locales de A y B y asi mantener los documentos actua    lizados
-    
+    Pull se llevará a cabo para actualizar los repositorias locales de A y B y asi mantener los documentos actualizados
+
+#Historial esperado'
+A---B---C <-----main
+    \
+     D---E <---- binario	
+
