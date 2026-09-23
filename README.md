@@ -63,16 +63,43 @@ A---B---C <-----main
     Que es mas practico y sencillo que el hash
 ## Reflexion Final
     ¿Que informacion almacena un commit?
+    guarda los datos de el estado del archivo en el momento
+
     ¿Que direrencia existe entre un repositorio local y uno remoto?
+    el local vive en mi computadora es donde trabajas  el remoto es una copia que sirve de punto para compartirlo
+
     ¿Que ocurrio uando modificaron archivos diferentes?
-    ¿Que ocurrio cuando modificaro la misma region de un archivo?
+    si se pudieron guardar los cambios de buena manera ya que no se sobreponian con otros
+
+    ¿Que ocurrio cuando modificaron la misma region de un archivo?
+    git no pudo decidir cual era la version buena por lo que se produjo un error
+
     ¿Que diferencias existen entre commit y push?
+    commit guarda los cambios localmente mientras push lo sube al repositorio remoto
+ 
     ¿Que funcion tuvo pull durante la practica?
+    actualizar las versiones que se tenian de todas las personas
+
     ¿Por que un push puede ser rechazado aunque no haya un conflicto de contenido?
+    porque evita que se sobreescriba sin que antes se integren cosas pasadas con un pull
+
     ¿Que representa una rama?
+    es una linea independiente de desarrollo
+ 
     ¿Que indica HEAD?
+    indica en que punto y en que rama se esta trabajando actualmente
+  
     ¿Que hace merge?
-    ¿or que git pudo integrar algunos cambios automaticamente y otros no?
-    ¿Que representan los marcadores ?, ============ y ??
+    integra dos lineas distintas en una sola combinando los cambios de ambas
+ 
+    ¿por que git pudo integrar algunos cambios automaticamente y otros no?
+    porque cuando se modifica a la misma linea git no sabia cual era la version correcta
+
+    ¿Que representan los marcadores ?, ============ y ?
+    delimitan las versiones que estan en conflicto por cambios hechos
+ 
     ¿Que ventaja proporciona un tag?
+    es una forma mas facil de identificar un punto especifico en el historial
+
     ¿Como cambio su interpretacion de los diagramas de historial depues de utilizar git log -graph -oneline -all?
+    creia que era mas sencillo de lo que realmente es entendiendo que cada linea representa un camino de trabajo independiente
