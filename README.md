@@ -49,7 +49,7 @@ A---B---C <-----main
 ## ¿Por que git no pudo decidir automaticamente que contenido conservar?
     Porque se cambio la misma region del archivo y git no sabe cual es la version importante 
 
-##Historia real 
+## Historia real 
     ¿En que se parece al dibujo inicial?
      que habia unas ramas que se separaban y despues volvian al main
     ¿En que es diferente?
@@ -58,3 +58,21 @@ A---B---C <-----main
     que el orden de las acciones si influye mucho en como se va a desarrollar
     ¿que entienden ahora que no entendian antes del primer dibujo?
     que el orden de el flujo depende de como nosotros lo hagamos 
+## Tag
+    ¿Que ventaja tiene usar el nombre v1.0 para identificar este punto del historial en lugar de utilizar solamente el hash del commit?
+    Que es mas practico y sencillo que el hash
+## Reflexion Final
+    ¿Que informacion almacena un commit?
+    ¿Que direrencia existe entre un repositorio local y uno remoto?
+    ¿Que ocurrio uando modificaron archivos diferentes?
+    ¿Que ocurrio cuando modificaro la misma region de un archivo?
+    ¿Que diferencias existen entre commit y push?
+    ¿Que funcion tuvo pull durante la practica?
+    ¿Por que un push puede ser rechazado aunque no haya un conflicto de contenido?
+    ¿Que representa una rama?
+    ¿Que indica HEAD?
+    ¿Que hace merge?
+    ¿or que git pudo integrar algunos cambios automaticamente y otros no?
+    ¿Que representan los marcadores ?, ============ y ??
+    ¿Que ventaja proporciona un tag?
+    ¿Como cambio su interpretacion de los diagramas de historial depues de utilizar git log -graph -oneline -all?
