@@ -48,3 +48,13 @@ A---B---C <-----main
    La versiona de A
 ## ¿Por que git no pudo decidir automaticamente que contenido conservar?
     Porque se cambio la misma region del archivo y git no sabe cual es la version importante 
+
+##Historia real 
+    ¿En que se parece al dibujo inicial?
+     que habia unas ramas que se separaban y despues volvian al main
+    ¿En que es diferente?
+    fueron mas commits y cosas que no esperaba que pasaran
+    ¿Que partes del historial no habian anticipado?
+    que el orden de las acciones si influye mucho en como se va a desarrollar
+    ¿que entienden ahora que no entendian antes del primer dibujo?
+    que el orden de el flujo depende de como nosotros lo hagamos 
